@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Td4VEoebeirYTh79oIBxLEjvHb9QesUfXExXnsIZTyerxNFkomdqfPx+QWbSsw4VYSqLDL5Hr5Xk3eHhKvfqlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lkzq\\Desktop\\Principal\\elogica.miniprojeto\\leitor_json.elogica\\api.leitor.elogica\\api.leitor.elogica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lkzq\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\lkzq\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.22\\microsoft.aspnetcore.jsonpatch.3.1.22.nupkg.sha512",
+    "C:\\Users\\lkzq\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.22\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.22.nupkg.sha512",
+    "C:\\Users\\lkzq\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\lkzq\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\lkzq\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\lkzq\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\lkzq\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
